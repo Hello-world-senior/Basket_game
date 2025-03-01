@@ -4,11 +4,6 @@ import pyray
 import raylib
 from raylib import colors
 
-server_ip = '188.120.224.81'
-server_port = 12345
-max_buffer = 1024
-
-
 class Settings:
     WIDTH = 800
     HEIGHT = 600
